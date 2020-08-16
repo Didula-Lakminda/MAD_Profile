@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="logh">LOGIN</string>
+    <string name="signh">REGISTER</string>
+    <string name="ES">Easy Shopping</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="logb">Sign In</string>
+    <string name="fp">Forgot Password</string>
+    <string name="SIGN">SIGNIN</string>
+    <string name="REG">REGISTER</string>
+    <string name="yourname">Your Name</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="rs">Sign Up</string>
+    <string name="logout">Log Out</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="deletprofile">Delete Profile</string>
+    <string name="foget">Forgot</string>
+    <string name="home">Home</string>
+    <string name="update">Update</string>
+    <string name="title_activity_profilein">profilein</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
